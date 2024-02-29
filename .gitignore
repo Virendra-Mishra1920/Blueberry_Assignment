@@ -1,0 +1,16 @@
+/Scripts
+/.vs
+/App_Data
+/obj
+/packages
+/packages.config
+/Web.Debug.config
+/Web.Release.config
+/Web.config
+/favicon.ico
+/bin
+/content
+/CRUDApplication.csproj.user
+/Global.asax
+/Global.asax.cs
+/Properties
